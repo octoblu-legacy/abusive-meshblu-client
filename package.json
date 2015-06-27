@@ -5,6 +5,7 @@
   "main": "index.js",
   "bin": {
     "abusive-meshblu-client": "./command.js",
+    "abusive-meshblu-client-socketio": "./command-socketio.js",
     "abusive-meshblu-client-websocket": "./command-websocket.js"
   },
   "scripts": {

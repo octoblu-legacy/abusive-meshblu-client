@@ -5,6 +5,7 @@ class Command
   run: =>
     commander
       .version packageJSON.version
+      .command 'socketio', 'abuse meshblu with socket.io (v2 API)'
       .command 'websocket', 'abuse meshblu with websockets'
       .parse process.argv
 
