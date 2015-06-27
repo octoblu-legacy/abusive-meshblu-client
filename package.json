@@ -28,6 +28,6 @@
     "meshblu": "^1.24.2",
     "meshblu-config": "^2.0.0",
     "meshblu-socket.io": "^2.0.0",
-    "meshblu-websocket": "^2.0.1"
+    "meshblu-websocket": "^2.0.4"
   }
 }
